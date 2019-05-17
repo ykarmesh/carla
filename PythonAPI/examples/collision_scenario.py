@@ -25,7 +25,6 @@ try:
 except IndexError:
     pass
 
-print(sys.path)
 
 import carla
 
